@@ -42,7 +42,7 @@ Experience the UI and flow:
 ### 📱 On Physical Device (Expo Go)
 
 1. Make sure your **mobile and PC are on the same Wi-Fi**.
-2. Use your **Local IP Address** in API calls (e.g., `http://192.168.1.101:3000/api/...`).
+2. Use your **Local IP Address** in API calls (e.g., `http://192.168.1.101:5000/api/...`).
 3. Start Backend:
     ```bash
     cd server
@@ -62,7 +62,7 @@ Experience the UI and flow:
 
 ### 💻 On Android Studio Emulator
 
-1. Use `http://10.0.2.2:3000/api/...` as your API base URL instead of your IP.
+1. Use `http://10.0.2.2:5000/api/...` as your API base URL instead of your IP.
 2. Start Backend as usual.
 3. Start Frontend with:
     ```bash
